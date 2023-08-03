@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Buimaitranbao
-- 👀 I’m interested in Mobile Applycation Developer
+- 👀 I’m interested in Mobile Application Developer
 - 🌱 I’m currently learning JAVA, KOTLIN
 - 💞️
 <!---
